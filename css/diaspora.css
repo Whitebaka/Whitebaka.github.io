@@ -202,7 +202,7 @@ h1.title {font-size:30px;color:#333;line-height:1.3;position:relative;font-weigh
   url('//at.alicdn.com/t/font_1692569_i64k27xq9oq.svg#whitefonticon') format('svg');
 }
 .iconfont{font-family:"whitefonticon"!important;font-size:22px;font-style:normal;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
-.icon-weibo:before{content:"&#xe88b;"}
+.icon-weibo:before{content:"<i class="iconfont">&#x33;</i>"}
 
 
 /* tags style  */
