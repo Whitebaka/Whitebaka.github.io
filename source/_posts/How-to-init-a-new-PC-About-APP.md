@@ -2,7 +2,7 @@
 title: How to init a new PC(About APP)
 date: 2022-07-28 22:32:35
 tags:
-cover: (https://whitebaka-1301161068.cos.ap-nanjing.myqcloud.com/image/FXtY22ZakAEC_hx.jpg/720)
+cover: https://whitebaka-1301161068.cos.ap-nanjing.myqcloud.com/image/FXtY22ZakAEC_hx.jpg/720
 ---
 # 大概是前言
 最近电脑状况不是很稳定，正好博文有些不知道写什么，整理一下自己从空白电脑到可以日用的电脑需要配置的软件，一来是方便哪天电脑暴毙了能快速恢复状态，二来是给也相当于给大家推荐一点自己的应用。  
