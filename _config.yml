@@ -107,8 +107,13 @@ deploy:
   branch: master
 
 markdown:
+  render:
+    html: true
+    xhtmlOut: false
+    breaks: true
+    linkify: true
+    typographer: true
   plugins:
-    - plugin:
-      name: '@neilsustc/markdown-it-katex'
-      options:
-        strict: false
+  anchors:
+    level: 1
+    collisionSuffix: ''
