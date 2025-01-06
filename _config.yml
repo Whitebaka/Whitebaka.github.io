@@ -104,7 +104,7 @@ theme: butterfly
 deploy:
   type: git
   repo: git@github.com:Whitebaka/Whitebaka.github.io.git
-  branch: master
+  branch: gh-pages
 
 markdown:
   render:
